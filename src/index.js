@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom/client';
-import App from '@components/App';
+import Home from '@pages/Home';
 
 const root = ReactDom.createRoot(document.getElementById('app'));
-root.render(<App />);
+root.render(<Home />);
