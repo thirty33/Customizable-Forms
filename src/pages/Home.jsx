@@ -11,7 +11,7 @@ const GLOBAL_STATE = {
   age: 18,
   price: 123,
   password: '12345678',
-  passwordConfirm: '12345678',
+  passwordConfirm: '12345687',
   terms: true,
   isAdmin: false,
   genre: 'female',
